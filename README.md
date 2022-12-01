@@ -1,4 +1,4 @@
-<h1 align="left">LEO's GIT</h1>
+<h1 align="left">LEONARDO</h1>
 
 
 <a href="https://www.linkedin.com/in/leonardo-ferreira-gui/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="120px"/></a>
